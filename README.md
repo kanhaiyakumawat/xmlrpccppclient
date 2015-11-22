@@ -1,5 +1,5 @@
 # xmlrpccppclient
-This is just a sample project for connecting a C++ XML-RPC client to Java RPC Server. Java RPC server is been put in different repository [here](www.kanhaiyakumawat.com)
+This is just a sample project for connecting a C++ XML-RPC client to Java RPC Server. Java RPC server is been put in different repository [here](https://github.com/kanhaiyakumawat/KanhaiyaJavaRPC)
 
 ## Dependencies
 This sample project is using libxmlrpc++ library. I haven't put a .gitignore file intentionaly. Here are the steps to be followed:
